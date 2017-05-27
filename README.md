@@ -3,7 +3,7 @@ learning Scala through words and actions..
 
 #### Scala Resources
 
-[Functors and Monads](docs/FunctorsAndMonads.md)
+1. [Functors and Monads](docs/FunctorsAndMonads.md)
 
 
 
